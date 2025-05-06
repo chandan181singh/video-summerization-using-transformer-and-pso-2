@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+
+# Virtual Environment
+myenv/
+
+#Other Folders and files
+summarized_videos/
+cuda-check.py
+Latex/
+models/
